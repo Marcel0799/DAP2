@@ -1,0 +1,61 @@
+dreieck 2:
+		Point a = new Point(2,2,2);
+		Point b = new Point(2,3,4);
+		Point c = new Point(2,5,4);
+		Point d = new Point(2,2,5);
+		Point e = new Point(2,5,3);
+		Point f = new Point(2,7,7);
+		Point g = new Point(2,6,2);
+		
+		
+		
+		
+		Point[] P = new Point[7];
+		P[0] = a;
+		P[1] = b;
+		P[2] = c;
+		P[3] = d;
+		P[4] = e;
+		P[5] = f;
+		P[6] = g;
+
+
+dreieck 1:
+		Point a = new Point(2,1,1);
+		Point b = new Point(2,2,2);
+		Point c = new Point(2,2,3);
+		Point d = new Point(2,2,2.5);
+		Point e = new Point(2,3,1);
+		
+		
+		
+		
+		Point[] P = new Point[5];
+		P[0] = a;
+		P[1] = b;
+		P[2] = c;
+		P[3] = d;
+		P[4] = e;
+
+dreieck 3:
+		Point a = new Point(2,2,2);
+		Point b = new Point(2,3,4);
+		Point c = new Point(2,5,4);
+		Point d = new Point(2,2,5);
+		Point e = new Point(2,5,3);
+		Point f = new Point(2,7,7);
+		Point g = new Point(2,6,2);
+		Point h = new Point(2,8,4);
+		
+		
+		
+		
+		Point[] P = new Point[8];
+		P[0] = a;
+		P[1] = b;
+		P[2] = c;
+		P[3] = d;
+		P[4] = e;
+		P[5] = f;
+		P[6] = g;
+		P[7] = h;
