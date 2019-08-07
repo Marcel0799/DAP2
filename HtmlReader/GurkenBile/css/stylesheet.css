@@ -1,0 +1,22 @@
+h1{
+	color: green;
+	background-color: pink;
+	
+}
+
+body {
+    color: #535353;
+    background-color: #f0f0f0;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica , Arial, sans-serif;
+    font-size: 13px;
+}
+body {
+    margin: 0;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}

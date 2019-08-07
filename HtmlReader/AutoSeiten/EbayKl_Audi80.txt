@@ -1,0 +1,930 @@
+
+    <div class="position-relative">
+        <ul id="srchrslt-adtable-topads" class="itemlist-separatedbefore ad-list lazyload">
+    <li class="ad-listitem lazyload-item  badge-topad is-topad  ">
+            <article class="aditem" data-adid="1167727208">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-b4-cabrio-2-0-el-verdeck-standheizung/1167727208-216-13384"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg3Njg=/z/jx0AAOSwKzVdNLjJ/$_9.JPG"
+                                         data-imgtitle="Audi 80 B4 cabrio 2.0 El. Verdeck, Standheizung Schleswig-Holstein - Plön  Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" 
+                           href="/s-anzeige/audi-80-b4-cabrio-2-0-el-verdeck-standheizung/1167727208-216-13384">Audi 80 B4 cabrio 2.0 El. Verdeck, Standheizung</a>
+                    </h2>
+                    <p>Verkaufe hier meinen schönen Audi 80 cabrio da ich leider kaum dazu komme ihn zu fahren.
+Der...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">272.700 km</span>
+                        <span class="simpletag tag-small">1994</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong>2.500 €</strong>
+                        <br>
+                    24306<br>
+                        Plön <br>
+                    </div>
+                <div class="aditem-addon">
+                    <a class="lnk-action position-right-bottom" href="/s-autos/sortierung:preis/topAds/audi-80/k0c216">Alle Top-Anzeigen</a></div>
+            </article>
+        </li>
+
+    </ul>
+<ul id="srchrslt-adtable" class="itemlist-separatedbefore ad-list lazyload">
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1144809799">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-quattro-b4-2-0/1144809799-216-7626"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg0ODU=/z/0DoAAOSwyhNdIhde/$_9.JPG"
+                                         data-imgtitle="Audi 80 quattro b4 2.0 Bayern - Durach Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" 
+                           href="/s-anzeige/audi-80-quattro-b4-2-0/1144809799-216-7626">Audi 80 quattro b4 2.0</a>
+                    </h2>
+                    <p>Servus
+Verkaufe Audi 80 quattro
+Technisch nicht mehr Top
+Wenig Rost
+Frontschaden Rahmen...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">270.000 km</span>
+                        <span class="simpletag tag-small">1994</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> Zu verschenken</strong>
+                        <br>
+                    87471<br>
+                        Durach<br>
+                    </div>
+                <div class="aditem-addon">
+                    17.06.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1174145067">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-8-fach-bereift-zum-restaurieren/1174145067-216-4259"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/37oAAOSwTBRdQo8X/$_9.JPG"
+                                         data-imgtitle="Audi 80 8 Fach bereift zum restaurieren Leipzig - Mitte Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" 
+                           href="/s-anzeige/audi-80-8-fach-bereift-zum-restaurieren/1174145067-216-4259">Audi 80 8 Fach bereift zum restaurieren</a>
+                    </h2>
+                    <p>Zum Verkauf steht ein Audi 80
+er hat 420.000 gelaufen und ist 8Fach bereift.
+
+Steht trotz seinem...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">420.000 km</span>
+                        <span class="simpletag tag-small">1994</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    04103<br>
+                        Mitte<br>
+                    </div>
+                <div class="aditem-addon">
+                    Heute, 09:11</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1174067451">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-b4-90ps-pkw-auto-tuev-neu-5-21-euro-2-voll-fahrbereit/1174067451-216-7006"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg3Njg=/z/8l8AAOSwZSpdQgHm/$_9.JPG"
+                                         data-imgtitle="Audi 80 b4 90ps, PKW, Auto, TÜV neu 5/21 Euro 2, voll fahrbereit Bayern - Neusorg Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" 
+                           href="/s-anzeige/audi-80-b4-90ps-pkw-auto-tuev-neu-5-21-euro-2-voll-fahrbereit/1174067451-216-7006">Audi 80 b4 90ps, PKW, Auto, TÜV neu 5/21 Euro 2, voll fahrbereit</a>
+                    </h2>
+                    <p>Audi 80 b4 90ps, PKW, Auto, TÜV neu 5&#x2F;21 Euro 2, voll fahrbereit
+
+Tacho wurde mal getauscht...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">334.000 km</span>
+                        <span class="simpletag tag-small">1995</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    95700<br>
+                        Neusorg<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 23:05</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1174005418">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-quattro-b4-schlachterteile/1174005418-216-5749"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NTc1WDEwMjQ=/z/9l8AAOSwPVldQeVc/$_9.JPG"
+                                         data-imgtitle="Audi 80 quattro B4 Schlachterteile Bayern - Neunburg Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" 
+                           href="/s-anzeige/audi-80-quattro-b4-schlachterteile/1174005418-216-5749">Audi 80 quattro B4 Schlachterteile</a>
+                    </h2>
+                    <p>Verkaufe Audi 80 quattro B4 schlachtteile.
+(Achsen sind schon weg)
+Alles Teile sind bereits...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">290.000 km</span>
+                        <span class="simpletag tag-small">1994</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    92431<br>
+                        Neunburg<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 21:07</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173969230">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/suche-audi-coupe-80-90-quattro-20v-10v-v6-typ-85-typ-89/1173969230-216-6021"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NzA5WDEwMjQ=/z/LlwAAOSwRjVdQdsh/$_9.JPG"
+                                         data-imgtitle="SUCHE!! Audi Coupe 80 90 Quattro 20v 10v V6 Typ 85 Typ 89 Bayern - Plattling Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173969230"
+                           href="/s-anzeige/suche-audi-coupe-80-90-quattro-20v-10v-v6-typ-85-typ-89/1173969230-216-6021">SUCHE!! Audi Coupe 80 90 Quattro 20v 10v V6 Typ 85 Typ 89</a>
+                    </h2>
+                    <p>Hallo, ich suche einen Audi wie oben in der Beschreibung.
+Egal ob Unfallfahrzeug,...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">Gesuch</span>
+                        <span class="simpletag tag-small">999.999 km</span>
+                        <span class="simpletag tag-small">1988</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    94447<br>
+                        Plattling<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 20:17</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173941919">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-b3/1173941919-216-7251"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg3Njg=/z/JocAAOSwdVpdQdJV/$_9.JPG"
+                                         data-imgtitle="Audi 80 B3 Bayern - Schwabach Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173941919"
+                           href="/s-anzeige/audi-80-b3/1173941919-216-7251">Audi 80 B3</a>
+                    </h2>
+                    <p>zum Verkauf steht ein Audi 80, Getriebe und Motor einwandfrei.
+Am Besten selbst ein Bild machen.</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">247.000 km</span>
+                        <span class="simpletag tag-small">1990</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    91126<br>
+                        Schwabach<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 19:39</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173917856">
+                <div class="aditem-image">
+                    <div  data-href="/s-anzeige/audi-avant-quadro/1173917856-216-3581" class="imagebox is-nopic"></div>
+                        </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173917856"
+                           href="/s-anzeige/audi-avant-quadro/1173917856-216-3581">AUDI Avant Quadro</a>
+                    </h2>
+                    <p>Bastler Auto.nicht fahrbereit. Motor Getriebe ist OK</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">125.000 km</span>
+                        <span class="simpletag tag-small">1996</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    37445<br>
+                        Walkenried<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 19:05</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173890649">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-v6-2-6-bj-93/1173890649-216-3008"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/S1gAAOSwx85dQcm4/$_9.JPG"
+                                         data-imgtitle="Audi 80 V6 2.6 Bj 93 Niedersachsen - Zetel Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173890649"
+                           href="/s-anzeige/audi-80-v6-2-6-bj-93/1173890649-216-3008">Audi 80 V6 2.6 Bj 93</a>
+                    </h2>
+                    <p>Hallo ich biete hier meine Audi 80 zum tausch an da ich zu viel fahren muss und er dann...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">25.000 km</span>
+                        <span class="simpletag tag-small">1993</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    26340<br>
+                        Zetel<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 18:28</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173706814">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/unfallwagen/1173706814-216-576"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NTc2WDEwMjQ=/z/2yoAAOSw-hVdQYiY/$_9.JPG"
+                                         data-imgtitle="Unfallwagen Nordfriesland - Drelsdorf  Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173706814"
+                           href="/s-anzeige/unfallwagen/1173706814-216-576">Unfallwagen</a>
+                    </h2>
+                    <p>Biete hir einen Audi 80 b4 Avant an.
+Km Stand gerade unbekannt.
+Er hatte einen Auffahrunfall und...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">200.000 km</span>
+                        <span class="simpletag tag-small">1995</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    25853<br>
+                        Drelsdorf <br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 14:25</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173699170">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-unfallwagen/1173699170-216-17394"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg1NzY=/z/HPwAAOSw595dQYbA/$_9.JPG"
+                                         data-imgtitle="Audi 80 unfallwagen Baden-Württemberg - Aldingen Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173699170"
+                           href="/s-anzeige/audi-80-unfallwagen/1173699170-216-17394">Audi 80 unfallwagen</a>
+                    </h2>
+                    <p>Achse hinten nach Unfall verbogen TÜV ist abgelaufen</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">110.000 km</span>
+                        <span class="simpletag tag-small">1994</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    78554<br>
+                        Aldingen<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 14:15</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173666513">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-b4-2-0-90ps-limousine-tuev-neu-euro-d3/1173666513-216-7006"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg3Njg=/z/wxIAAOSwBDhdQXu8/$_9.JPG"
+                                         data-imgtitle="Audi 80 b4 2.0 90ps limousine TÜV neu, Euro d3 Bayern - Neusorg Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173666513"
+                           href="/s-anzeige/audi-80-b4-2-0-90ps-limousine-tuev-neu-euro-d3/1173666513-216-7006">Audi 80 b4 2.0 90ps limousine TÜV neu, Euro d3</a>
+                    </h2>
+                    <p>Audi 80 b4 2.0 90ps limousine TÜV neu, Euro d3
+
+Tacho wurde mal getauscht wegen defekter...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">334.000 km</span>
+                        <span class="simpletag tag-small">1995</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    95700<br>
+                        Neusorg<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 13:32</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173626062">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-fuer-komplett-oder-auf-autoteile-zerlegung-zu-verkaufen/1173626062-216-21276"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NTc2WDEwMjQ=/z/7d8AAOSwODBdQW6l/$_9.JPG"
+                                         data-imgtitle="Audi 80 für komplett oder auf Autoteile Zerlegung zu verkaufen Rheinland-Pfalz - Badem Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173626062"
+                           href="/s-anzeige/audi-80-fuer-komplett-oder-auf-autoteile-zerlegung-zu-verkaufen/1173626062-216-21276">Audi 80 für komplett oder auf Autoteile Zerlegung zu verkaufen</a>
+                    </h2>
+                    <p>ohne TÜV, Sommerreifen,komplet​t Verkauf oder auf Autoteile</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">316.000 km</span>
+                        <span class="simpletag tag-small">1994</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    54657<br>
+                        Badem<br>
+                    </div>
+                <div class="aditem-addon">
+                    Gestern, 12:37</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem">
+                <div id="pla-container" class="box-centered"></div>
+<script type="application/javascript" >
+    ProductLister.Loader.run({"provider":["AFSH"],"afshConfig":{"channel":"Total+c_Auto_Rad_Boot+r_Germany+d_SRPS_Total+d_SRPS_Auto_Rad_Boot+d_yield_test_search+srp_rebrush-b-DEFAULT+yo_B+liberty-vip-default","query":"audi 80 Autos","pubId":"partner-vert-pla-ebay-kleinanzeigen-de-srp"}});
+</script>
+</li>
+        <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173380153">
+                <div class="aditem-image">
+                    <div  data-href="/s-anzeige/suche-audi-80/1173380153-216-3034" class="imagebox is-nopic"></div>
+                        </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173380153"
+                           href="/s-anzeige/suche-audi-80/1173380153-216-3034">Suche Audi 80</a>
+                    </h2>
+                    <p>Suche Audi 80 Zustand am besten gepflegt unter 200.000km, ausstattung egal, bevorzugt auch gerne...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">Gesuch</span>
+                        <span class="simpletag tag-small">200.000 km</span>
+                        <span class="simpletag tag-small">1991</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    26607<br>
+                        Aurich<br>
+                    </div>
+                <div class="aditem-addon">
+                    30.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1173362498">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-bj-92-inkl-scheckheft/1173362498-216-9413"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg3Njg=/z/HgwAAOSw4S1dQJS3/$_9.JPG"
+                                         data-imgtitle="AUDI 80 BJ 92 INKL. SCHECKHEFT Harburg - Hamburg Eißendorf Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1173362498"
+                           href="/s-anzeige/audi-80-bj-92-inkl-scheckheft/1173362498-216-9413">AUDI 80 BJ 92 INKL. SCHECKHEFT</a>
+                    </h2>
+                    <p>Verkaufe Audi 80 BJ 01.92
+Das Auto ist fahrbereit, nur der TÜV müsste gemacht werden.
+Der Audi ist...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">179.057 km</span>
+                        <span class="simpletag tag-small">1992</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    21075<br>
+                        Hamburg Eißendorf<br>
+                    </div>
+                <div class="aditem-addon">
+                    30.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1149792852">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/suche-audi-80-90-b3-coupe-unfall-defekt-motorschaden-ohne-tuev/1149792852-216-1345"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NjQ1WDc2NQ==/z/O8oAAOSw-NBdERkH/$_9.JPG"
+                                         data-imgtitle="Suche Audi 80 90 B3 Coupe  Unfall defekt Motorschaden ohne TÜV Nordrhein-Westfalen - Vreden Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1149792852"
+                           href="/s-anzeige/suche-audi-80-90-b3-coupe-unfall-defekt-motorschaden-ohne-tuev/1149792852-216-1345">Suche Audi 80 90 B3 Coupe  Unfall defekt Motorschaden ohne TÜV</a>
+                    </h2>
+                    <p>Suche Im näheren Umkreis von 48691 Vreden Audi 80 90 Coupe. Bitte alles anbieten. Zahle je nach...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">Gesuch</span>
+                        <span class="simpletag tag-small">123.456 km</span>
+                        <span class="simpletag tag-small">1987</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    48691<br>
+                        Vreden<br>
+                    </div>
+                <div class="aditem-addon">
+                    30.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1172908759">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-b4/1172908759-216-2915"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg0NzM=/z/WJcAAOSwjW5dQADN/$_9.JPG"
+                                         data-imgtitle="Audi 80 B4 Niedersachsen - Springe Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1172908759"
+                           href="/s-anzeige/audi-80-b4/1172908759-216-2915">Audi 80 B4</a>
+                    </h2>
+                    <p>Guten Tag,
+
+Ich verkaufe hier einen gut gepflegten Audi 80 B4 aus dem Jahr 04.08.1993. In dieser...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">136.000 km</span>
+                        <span class="simpletag tag-small">1993</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    31832<br>
+                        Springe<br>
+                    </div>
+                <div class="aditem-addon">
+                    30.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1172907969">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/achtung-audi-fans-audi-80-lackierte-karosserie/1172907969-216-9373"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/LgYAAOSwTF1dQACj/$_9.JPG"
+                                         data-imgtitle="Achtung Audi -Fans Audi 80 + lackierte Karosserie Freiburg - Umkirch Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1172907969"
+                           href="/s-anzeige/achtung-audi-fans-audi-80-lackierte-karosserie/1172907969-216-9373">Achtung Audi -Fans Audi 80 + lackierte Karosserie</a>
+                    </h2>
+                    <p>Nur an Liebhaber werde mich sehr schwer trennen.
+
+Aus privaten Schicksal muss ich mich mit meine...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">119.000 km</span>
+                        <span class="simpletag tag-small">1988</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    79224<br>
+                        Umkirch<br>
+                    </div>
+                <div class="aditem-addon">
+                    30.07.2019</div>
+            </article>
+        </li>
+
+    <li id="rectangle-banner" class="ad-listitem" data-reinsert-ad='{"zoneid":"767507","width":"728","height":"250","containerId":"crt-e655106f", "displayOnPages":["ResultsSearch", "ResultsBrowse"]}'>
+                <div id="srp-btf-300x250" class="align-center"></div>
+            </li>
+        <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1172777830">
+                <div class="aditem-image">
+                    <div  data-href="/s-anzeige/suche-audi-cabrio/1172777830-216-1345" class="imagebox is-nopic"></div>
+                        </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1172777830"
+                           href="/s-anzeige/suche-audi-cabrio/1172777830-216-1345">Suche audi Cabrio</a>
+                    </h2>
+                    <p>Hallo,
+
+
+Ich suche ein audi Cabrio zum Tausch gegen meinen audi a4 1.9 Tdi vom Bj. 2007.
+
+Bitte...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">Gesuch</span>
+                        <span class="simpletag tag-small">0 km</span>
+                        <span class="simpletag tag-small">1999</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    48691<br>
+                        Vreden<br>
+                    </div>
+                <div class="aditem-addon">
+                    29.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1168439570">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-avant-2-6-l-v6/1168439570-216-7801"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/~pUAAOSw9GRdNhwJ/$_9.JPG"
+                                         data-imgtitle="Audi 80 Avant 2,6 l V6 Brandenburg - Lauchhammer Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1168439570"
+                           href="/s-anzeige/audi-80-avant-2-6-l-v6/1168439570-216-7801">Audi 80 Avant 2,6 l V6</a>
+                    </h2>
+                    <p>Hallo! Ich verkaufe einen wenig gefahrenen Audi 80 Avant mit gerade einmal 124742km. Im Moment ist...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">124.742 km</span>
+                        <span class="simpletag tag-small">1992</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    01979<br>
+                        Lauchhammer<br>
+                    </div>
+                <div class="aditem-addon">
+                    29.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1172770877">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-coupe-2-3-e-typ-89-b3-mit-vielen-neuteilen-tuev-2019-/1172770877-216-4555"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NzY2WDEwMjQ=/z/BWQAAOSw5KVdP1R5/$_9.JPG"
+                                         data-imgtitle="Audi 80 Coupe 2.3 E Typ 89 B3 mit vielen Neuteilen TÜV 2019 !!!!! Hessen - Bruchköbel Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1172770877"
+                           href="/s-anzeige/audi-80-coupe-2-3-e-typ-89-b3-mit-vielen-neuteilen-tuev-2019-/1172770877-216-4555">Audi 80 Coupe 2.3 E Typ 89 B3 mit vielen Neuteilen TÜV 2019 !!!!!</a>
+                    </h2>
+                    <p>Verkaufe hier ein Audi 80 Coupe 2.3 E Typ 89 B3 Frontantrieb.
+
+Das Scheckheftgepflegt ist dabei...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">344.194 km</span>
+                        <span class="simpletag tag-small">1990</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    63486<br>
+                        Bruchköbel<br>
+                    </div>
+                <div class="aditem-addon">
+                    29.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1172728550">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-coup-raritaet-2-3l-98kw-ez-11-1992/1172728550-216-3001"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/AXgAAOSwbERdP0Nv/$_9.JPG"
+                                         data-imgtitle="Audi 80 Coupé, * Rarität *, 2,3l, 98kW, EZ 11/1992 Niedersachsen - Wittmund Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1172728550"
+                           href="/s-anzeige/audi-80-coup-raritaet-2-3l-98kw-ez-11-1992/1172728550-216-3001">Audi 80 Coupé, * Rarität *, 2,3l, 98kW, EZ 11/1992</a>
+                    </h2>
+                    <p>Biete diesen lang vergessenen Audi wegen Projektaufgabe und Mangel an Zeit zum Verkauf...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">0 km</span>
+                        <span class="simpletag tag-small">1992</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    26409<br>
+                        Wittmund<br>
+                    </div>
+                <div class="aditem-addon">
+                    29.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1172710933">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-tausch/1172710933-216-21426"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg2NTg=/z/ikYAAOSw78hdPz~P/$_9.JPG"
+                                         data-imgtitle="Audi 80 Tausch Sachsen-Anhalt - Elbingerode (Harz) Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1172710933"
+                           href="/s-anzeige/audi-80-tausch/1172710933-216-21426">Audi 80 Tausch</a>
+                    </h2>
+                    <p>Biete hier meinen Audi 80 b4 zum Tausch an . Er hat eine 2l maschiene elektrische Fensterheber und...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">190.000 km</span>
+                        <span class="simpletag tag-small">1992</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    38875<br>
+                        Elbingerode (Harz)<br>
+                    </div>
+                <div class="aditem-addon">
+                    29.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item  is-highlight   ">
+            <article class="aditem" data-adid="1162065960">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-80-oldtimer-ahk-tuev-leder-nardi-liebhaber-tausch-moeglich/1162065960-216-18930"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/5MIAAOSwkl9dKjqy/$_9.JPG"
+                                         data-imgtitle="Audi 80 oldtimer ahk TÜV leder nardi liebhaber Tausch möglich Niedersachsen - Vrees Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1162065960"
+                           href="/s-anzeige/audi-80-oldtimer-ahk-tuev-leder-nardi-liebhaber-tausch-moeglich/1162065960-216-18930">Audi 80 oldtimer ahk TÜV leder nardi liebhaber Tausch möglich</a>
+                    </h2>
+                    <p>Verkaufe unsern audi 80.
+25 jahre im Besitz.
+
+Hat oldtimer- h Gutachten und tüv bis...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">123.456 km</span>
+                        <span class="simpletag tag-small">1987</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    49757<br>
+                        Vrees<br>
+                    </div>
+                <div class="aditem-addon">
+                    29.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1172318353">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/coupe-zu-verkaufen-audi/1172318353-216-2128"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg3Njg=/z/K0YAAOSwkpxdPshA/$_9.JPG"
+                                         data-imgtitle="Coupe zu verkaufen Audi Nordrhein-Westfalen - Moers Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1172318353"
+                           href="/s-anzeige/coupe-zu-verkaufen-audi/1172318353-216-2128">Coupe zu verkaufen Audi</a>
+                    </h2>
+                    <p>Hier wird ein sehr schöner Audi Coupe in Verhandlungssache verkauft.</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">189.156 km</span>
+                        <span class="simpletag tag-small">1984</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    47443<br>
+                        Moers<br>
+                    </div>
+                <div class="aditem-addon">
+                    29.07.2019</div>
+            </article>
+        </li>
+
+    <li class="ad-listitem lazyload-item   ">
+            <article class="aditem" data-adid="1172231163">
+                <div class="aditem-image">
+                    <div class="imagebox srpimagebox" 
+                                         data-href="/s-anzeige/audi-cabrio-2-6-v6-s-line/1172231163-216-19896"
+                                         data-imgsrc="https://i.ebayimg.com/00/s/MTAyNFg3Njg=/z/6p4AAOSwgMxdPqzo/$_9.JPG"
+                                         data-imgtitle="Audi Cabrio 2.6 V6 S-Line Thüringen - Kindelbrück Vorschau">
+                                    </div>
+                                </div>
+                <div class="aditem-main">
+                    <h2 class="text-module-begin">
+                        <a class="ellipsis" name="1172231163"
+                           href="/s-anzeige/audi-cabrio-2-6-v6-s-line/1172231163-216-19896">Audi Cabrio 2.6 V6 S-Line</a>
+                    </h2>
+                    <p>Gebe schweren Herzen meinen Audi Cabrio ab.
+Wurde in den letzten Jahren sehr viel Geld rein...</p>
+
+
+                    <p class="text-module-end">
+                        <span class="simpletag tag-small">173.000 km</span>
+                        <span class="simpletag tag-small">1999</span>
+                        </p>
+
+                    </div>
+                <div class="aditem-details">
+                    <strong> VB</strong>
+                        <br>
+                    99638<br>
+                        Kindelbrück<br>
+                    </div>
+                <div class="aditem-addon">
+                    29.07.2019</div>
+            </article>
+        </li>
+
+    </ul>
+</div>
+
+
+ 
