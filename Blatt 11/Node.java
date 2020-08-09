@@ -38,28 +38,13 @@ class Node {
 	 * @return true if this node has an edge to the node with the given id, false
 	 *         otherwise
 	 */
-	public boolean adjacent(Node dest) {
+	public boolean hasEdgeTo(int id) {
 		for (Edge e : this.adjList) {
-			if (e.getDst().getId() == dest.getId()) {
+			if (e.getDst().getId() == id) {
 				return true;
 			}
 		}
 		return false;
-	}
-
-	/**
-	 * Gibt die Kante zurueck die this mit dest verbindet und sich in der Adjazenzliste von this befindet
-	 *
-	 * @param dest
-	 * @return
-	 */
-	public Edge getAdjacentEdge(Node dest) {
-		for (Edge e: this.adjList) {
-			if (e.getDst().getId() == dest.getId()) {
-				return e;
-			}
-		}
-		return null;
 	}
 
 	/**
@@ -80,7 +65,7 @@ class Node {
 	 * @return true if the edge is added, false otherwise
 	 */
 	public boolean addEdge(Node dst, int weight) {
-		if (this.adjacent(dst)) { // already in list
+		if (this.hasEdgeTo(dst.getId())) { // already in list
 			return false;
 		}
 		addEdge(new Edge(this, dst, weight));

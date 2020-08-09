@@ -1,5 +1,5 @@
 
-class Edge implements Comparable<Edge> {
+class Edge {
 	private Node src;
 	private Node dst;
 	private int weight;
@@ -27,18 +27,6 @@ class Edge implements Comparable<Edge> {
 	}
 
 	/**
-	 * Setzt das Gewicht der Kante auf den angegebenen Wert
-	 *
-	 * @param weight
-	 */
-	public void setWeight(int weight) {
-		if (weight < 1) {
-			throw new IllegalArgumentException();
-		}
-		this.weight = weight;
-	}
-
-	/**
 	 * @return source Node
 	 */
 	public Node getSrc() {
@@ -46,30 +34,10 @@ class Edge implements Comparable<Edge> {
 	}
 
 	/**
-	 * Gibt die Referenz auf die entgegengerichtete Kante aus der Adjazenzliste des Nachbarknoten zurueck
-	 *
-	 * @return
-	 */
-	public Edge getSiblingEdge() {
-		return this.dst.getAdjacentEdge(this.src);
-	}
-
-	/**
 	 * @return destination Node
 	 */
 	public Node getDst() {
 		return this.dst;
-	}
-
-	/**
-	 * Nuetzlich zum sortieren von Kanten nach Kantengewicht
-	 *
-	 * @param other
-	 * @return
-	 */
-	@Override
-	public int compareTo(Edge other) {
-		return Integer.compare(this.getWeight(), other.getWeight());
 	}
 	
 	/**
@@ -86,12 +54,7 @@ class Edge implements Comparable<Edge> {
 	 */
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
-		if (this.src.getId() < this.dst.getId()) {
-			sb.append(this.src.getId()).append(" <-").append(this.weight).append("-> ").append(this.dst.getId());
-		} else {
-			sb.append(this.dst.getId()).append(" <-").append(this.weight).append("-> ").append(this.src.getId());
-		}
-
+		sb.append(src.getId()).append(" zu ").append(dst.getId()).append(" (").append(weight).append(")");
 		return sb.toString();
 	}
 

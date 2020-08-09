@@ -1,31 +1,14 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.StringJoiner;
+import java.util.StringTokenizer;
 import java.util.function.Predicate;
 
 class Graph {
 
 	private ArrayList<Node> nodes = new ArrayList<Node>();
-	private double[][] weights;
-	private int cap = 4;
-
-	/**
-	 * Erstellt einen leeren, (un)gerichteten Graphen mit einer Grundkapazitaet
-	 * @param cap Grundkapazitaet fuer die Anzahl der Knoten
-	 */
-	public Graph(int cap){
-		if (cap > 0) this.cap = cap;
-		nodes = new ArrayList<Node>(this.cap);
-		weights = new double[this.cap][this.cap];
-	}
-
-	/**
-	 * Erstellt einen leeren, ungerichteten Graphen
-	 */
-	public Graph(){
-		this(0);
-	}
 
 	/**
 	 * Check if a node with the given id is present within the graph.
@@ -54,17 +37,6 @@ class Graph {
 		if (!this.contains(id)) {
 			Node n = new Node(id);
 			this.nodes.add(n);
-
-			if (id >= cap){
-				cap *= 2;
-			}
-			double[][] newCosts = new double[cap][cap];
-			int oldCap = weights.length;
-			for (int i = 0; i< oldCap; i++){
-				System.arraycopy(weights[i], 0, newCosts[i], 0, oldCap);
-			}
-			weights = newCosts;
-
 			return true;
 		} else {
 			return false;
@@ -72,28 +44,6 @@ class Graph {
 	}
 
 	/**
-	 * Gibt eine Liste aller Kanten im Graphen zurueck
-	 *
-	 * @return ArrayList containing all edges in the graph
-	 */
-	public ArrayList<Edge> getEdges() {
-		ArrayList<Edge> edges = new ArrayList<Edge>();
-
-		for (Node node: nodes){
-			for (Edge edge: node.getAdjList()) {
-				Edge siblingEdge = edge.getSiblingEdge();
-				if (!edges.contains(edge.getSiblingEdge())){
-					edges.add(edge);
-				}
-			}
-		}
-
-		return edges;
-	}
-
-	/**
-	 * Gibt die Liste aller Knoten im Graphen zurueck
-	 *
 	 * @return ArrayList containing all nodes in the graph.
 	 */
 	public ArrayList<Node> getNodes() {
@@ -116,39 +66,6 @@ class Graph {
 	}
 
 	/**
-	 * Gibt die Kosten einer Kante zurueck
-	 * @param src ID des Startknotens
-	 * @param dest ID des Endknotens
-	 * @return die Kosten der Kante oder -1, falls die Knoten oder die Kante nicht exisitieren
-	 */
-	public double getCost(int src, int dest){
-		if (src >= weights.length || dest >= weights[src].length ) return -1;
-		return (weights[src][dest] > 0? weights[src][dest]: -1);
-	}
-
-	/**
-	 * Gibt die Kosten einer Kante zurueck
-	 * @param v Startknoten
-	 * @param u Endknoten
-	 * @return die Kosten der Kante oder -1, falls die Knoten oder die Kante nicht exisitieren
-	 */
-	public double getCost(Node v, Node u){
-		return getCost(v.getId(),u.getId());
-	}
-
-	/**
-	 * Gibt eine Kopie der Kostenmatrix zurueck
-	 * @return Kopie der Kostenmatrix
-	 */
-	public double[][] getWeights(){
-		double[][] ret = new double[cap][cap];
-		for(int i = 0; i < cap;i++){
-			System.arraycopy(weights[i], 0, ret[i], 0, cap);
-		}
-		return ret;
-	}
-
-	/**
 	 * Add an Edge between the nodes with the ids srcid and dstid if both are
 	 * present
 	 * 
@@ -157,13 +74,10 @@ class Graph {
 	 * @return true if the edge is successfully added, false otherwise
 	 */
 	public boolean addEdge(int srcid, int dstid, int weight) throws IllegalArgumentException {
-		if (!(this.contains(srcid)) || !(this.contains(dstid)) || !(this.getNode(srcid).getAdjacentEdge(this.getNode(dstid)) == null)) {
+		if (!(this.contains(srcid)) || !(this.contains(dstid))) {
 			return false;
 		} else {
-			this.getNode(srcid).addEdge(new Edge(this.getNode(srcid), this.getNode(dstid), weight));
-			this.getNode(dstid).addEdge(new Edge(this.getNode(dstid), this.getNode(srcid), weight));
-			weights[srcid][dstid] = weight;
-			weights[dstid][srcid] = weight;
+			this.getNode(srcid).addEdge(this.getNode(dstid), weight);
 			return true;
 		}
 	}
@@ -182,31 +96,17 @@ class Graph {
 		BufferedReader file = new BufferedReader(new FileReader(filename));
 		String line;
 		StringTokenizer st;
-		Set<Integer> nodes = new HashSet<>();
-		ArrayList<Edge> edges = new ArrayList<>();
-
+		Graph g = new Graph();
 		while ((line = file.readLine()) != null) {
 			st = new StringTokenizer(line, ",");
-			if (st.countTokens() != 3) { throw new IllegalArgumentException(); }
 			int src = Integer.parseInt(st.nextToken());
 			int dest = Integer.parseInt(st.nextToken());
 			int weight = Integer.parseInt(st.nextToken());
-
-			nodes.add(src);
-			nodes.add(dest);
-			edges.add(new Edge(new Node(src), new Node(dest), weight));
+			g.addNode(src);
+			g.addNode(dest);
+			g.addEdge(src, dest, weight);
 		}
 		file.close();
-
-		Graph g = new Graph(nodes.size());
-
-		for (Integer nodeID: nodes) {
-			g.addNode(nodeID);
-		}
-		for (Edge edge: edges) {
-			g.addEdge(edge.getSrc().getId(), edge.getDst().getId(), edge.getWeight());
-		}
-
 		return g;
 	}
 
